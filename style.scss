@@ -19,5 +19,33 @@ $magenta: #960341;
   width: 1em;
   height: 1em;
   background-color: white;
-  box-shadow: 1em 1em $magenta;
+  // Row 1
+  box-shadow: 1em 1em $magenta, 2em 1em $magenta, 3em 1em $magenta,
+    4em 1em $magenta, 5em 1em $magenta, 6em 1em $magenta, 7em 1em $magenta,
+    8em 1em $darkgrey, 9em 1em $darkgrey, 10em 1em $darkgrey, 11em 1em $darkgrey,
+    12em 1em $magenta, 13em 1em $magenta, 14em 1em $magenta, 15em 1em $magenta,
+    16em 1em $magenta, 17em 1em $magenta, 18em 1em $magenta, 19em 1em $magenta,
+    20em 1em $magenta, 21em 1em $magenta, 22em 1em $magenta, 23em 1em $magenta,
+    24em 1em $magenta, 25em 1em $magenta, 26em 1em $magenta, 27em 1em $magenta,
+    28em 1em $magenta, 29em 1em $magenta, 30em 1em $magenta,
+    // Row 2
+      1em 2em $magenta,
+    2em 2em $magenta, 3em 2em $magenta, 4em 2em $magenta, 5em 2em $magenta,
+    6em 2em $magenta, 7em 2em $darkgrey, 8em 2em $lightgrey, 9em 2em $lightgrey,
+    10em 2em $lightblue, 11em 2em $darkgrey, 12em 2em $darkgrey,
+    13em 2em $darkgrey, 14em 2em $darkgrey, 15em 2em $magenta, 16em 2em $magenta,
+    17em 2em $magenta, 18em 2em $magenta, 19em 2em $magenta, 20em 2em $magenta,
+    21em 2em $darkgrey, 22em 2em $darkgrey, 23em 2em $darkgrey,
+    24em 2em $darkgrey, 25em 2em $magenta, 26em 2em $magenta, 27em 2em $magenta,
+    28em 2em $magenta, 29em 2em $magenta, 30em 2em $magenta,
+    // Row 3
+      1em 3em $magenta,
+    2em 3em $magenta, 3em 3em $magenta, 4em 3em $magenta, 5em 3em $magenta,
+    6em 3em $darkgrey, 7em 3em $lightgrey, 8em 3em $lightgrey,
+    9em 3em $lightgrey, 10em 3em $darkgrey, 11em 3em $blue, 13em 3em $darkgrey,
+    13em 3em $darkgrey, 14em 3em $darkgrey, 15em 3em $darkgrey,
+    16em 3em $magenta, 17em 3em $magenta, 18em 3em $magenta, 19em 3em $darkgrey,
+    20em 3em $blue, 21em 3em $blue, 22em 3em $lightblue, 23em 3em $lightblue,
+    24em 3em $darkgrey, 25em 3em $darkgrey, 26em 3em $magenta, 27em 3em $magenta,
+    28em 3em $magenta, 29em 3em $magenta, 30em 3em $magenta;
 }
