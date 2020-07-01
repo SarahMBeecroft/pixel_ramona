@@ -1,0 +1,23 @@
+$teal: #20b2aa;
+$darkteal: #008b8b;
+$lightgrey: #aaaca9;
+$darkgrey: #2c2b2c;
+$blue: #020e5b;
+$lightblue: #00426d;
+$cream: #fefcfc;
+$skin1: #ffdbb1;
+$skin2: #d4ab8b;
+$skin3: #a27850;
+$magenta: #960341;
+
+.pixel-container {
+  width: 30em;
+  height: 30em;
+}
+
+.pixel {
+  width: 1em;
+  height: 1em;
+  background-color: white;
+  box-shadow: 1em 1em $magenta;
+}
